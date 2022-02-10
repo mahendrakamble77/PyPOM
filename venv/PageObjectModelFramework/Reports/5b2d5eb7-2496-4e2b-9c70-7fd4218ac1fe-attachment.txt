@@ -1,0 +1,9 @@
+INFO     WDM:logger.py:26 
+
+INFO     WDM:logger.py:26 ====== WebDriver manager ======
+INFO     WDM:logger.py:26 Current firefox version is 96.0
+INFO     WDM:logger.py:26 Get LATEST geckodriver version for 96.0 firefox
+INFO     WDM:logger.py:26 Driver [C:\Users\admin\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+INFO     Testcases.test_carwale:test_carwale.py:61 ******Inside Car Names and Prices Test*********
+INFO     Pages.BasePage:BasePage.py:61 Moving to an element: newCar_XPATH
+INFO     Pages.BasePage:BasePage.py:23 Clicking on an element: findNewCars_XPATH

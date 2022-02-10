@@ -1,0 +1,4 @@
+Launching Browser
+Executing Registeration Test Case
+Closing the Browser
+Closing DB Connection

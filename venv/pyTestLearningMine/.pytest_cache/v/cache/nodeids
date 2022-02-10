@@ -1,0 +1,21 @@
+[
+  "test_first_testcase.py::test_doDelete",
+  "test_first_testcase.py::test_doLogout",
+  "test_fixture_deco_testcase.py::test_doLogin",
+  "test_fixture_deco_testcase.py::test_doRegister",
+  "test_fixture_testcase.py::test_doLogin",
+  "test_fixture_testcase.py::test_doRegister",
+  "test_fixtureswithdecorators.py::test_dologin",
+  "test_fixtureswithdecorators.py::test_user_reg",
+  "test_marker_parameterized_testcase.py::test_doLogin[MAK-PAss]",
+  "test_marker_parameterized_testcase.py::test_doLogin[Test-Passss]",
+  "test_marker_parameterized_testcase.py::test_doLogin[mahendra-Pass]",
+  "test_marker_testcase.py::test_doLogin",
+  "test_marker_testcase.py::test_doLogout",
+  "test_marker_testcase.py::test_doRegister",
+  "test_marker_testcase.py::test_skipping",
+  "test_validate_title_M.py::test_validate_title",
+  "test_webdriver_integration_testcase.py::test_doLogin[purva-purva0]",
+  "test_webdriver_integration_testcase.py::test_doLogin[purva-purva1]",
+  "test_webdriver_integration_testcase.py::test_doLogin[shubdha-shubdha]"
+]

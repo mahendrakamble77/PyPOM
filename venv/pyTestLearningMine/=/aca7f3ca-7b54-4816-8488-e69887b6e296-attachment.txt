@@ -1,0 +1,4 @@
+Creating DB Connection
+Launching browser
+Executing login test
+Closing browser
